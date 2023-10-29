@@ -11,3 +11,9 @@ Addressing the critical issue of gender-based online abuse in the Bengali langua
 - Model interpretability using LIME, providing insights into decision-making processes.
 
 📈 The results offer valuable insights into the strengths and limitations of these models, contributing to the development of more effective tools for identifying online sexism. This study lays the foundation for future research on language-specific nuances and cross-lingual trends in the realm of gender-based abuse detection, ultimately working towards safer digital environments.
+
+
+## **Publication**
+
+- Published in: [ComNetSat 2023](https://comnetsat.org/)
+- DOI: []
