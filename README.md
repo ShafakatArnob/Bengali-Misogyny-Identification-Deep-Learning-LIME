@@ -1,4 +1,4 @@
-# **🔍 Bengali Misogyny Identification with Deep Learning and LIME 📊🔬**
+## **🔍 Bengali Misogyny Identification with Deep Learning and LIME 📊🔬**
 
 Addressing the critical issue of gender-based online abuse in the Bengali language, this repository presents a comprehensive study that leverages deep learning techniques, including BERT, mBERT, and BanglaBERT, for the identification of misogyny. We evaluate model performance using key metrics such as Accuracy, F1 Score, Precision, and Recall, shedding light on the effectiveness of these models in recognizing misogynistic language.
 
