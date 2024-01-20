@@ -15,5 +15,5 @@ Addressing the critical issue of gender-based online abuse in the Bengali langua
 
 ## **Publication**
 
-- Published in: [ComNetSat 2023](https://comnetsat.org/)
+- Published in: [12th IEEE ComNetSat 2023](https://comnetsat.org/)
 - DOI: []
